@@ -1,9 +1,8 @@
-* REQUIREMENTS
+# REQUIREMENTS
 
-** nodejs installed in your machine
+1. nodejs installed in your machine
 
+# TO RUN THIS PROJECT - RUN THIS IN YOUR CLI
 
-* TO RUN THIS PROJECT - RUN THIS IN YOUR CLI
-
-** npm i
-** npm run dev
+1.  npm i
+2.  npm run dev
